@@ -2,3 +2,7 @@ Fredys Gesischte: er ist 33 Jahre alt und er wirde in Kolumbien geboren.
 Vor der Kamera sieht er gorss aus, aber so gross is er gar nicht.
 Heute werden wir uber sein Leben und sein Meisterwerk sprechen.
 
+<<<<<<< HEAD
+=======
+Morgen werden wir uns auf sein Arbeitsleben konzentrieren.
+>>>>>>> tmp

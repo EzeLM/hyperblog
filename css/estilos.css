@@ -1,6 +1,20 @@
 body{
-    color: blueviolet;
+    color: crimson;
     text-align: center;
     font-family: "Cambria";
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 70%;
+    padding: lem;
+    text-align: left;
+    border: 1px;
+    margin: 0 auto;
 
+}
+
+#container h1{
+    font-size: 30px;
 }
